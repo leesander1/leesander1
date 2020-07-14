@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lee Sander
 
 <!--
 **leesander1/leesander1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
