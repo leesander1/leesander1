@@ -59,6 +59,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	rand.Seed(time.Now().Unix())
+
 	readme := Readme{
 		Title: Title{
 			Intro: intros[rand.Intn(len(intros))],
