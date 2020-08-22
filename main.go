@@ -34,6 +34,10 @@ var (
 		"Hola! my name is",
 		"How's it going? My name is",
 		"How's it going? I am",
+		"Oh hi there!",
+		"Yo what's up?!",
+		"Hey all,",
+		"Check it out, I am",
 	}
 )
 
