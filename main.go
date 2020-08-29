@@ -30,7 +30,7 @@ var (
 		"Hello there, my name is",
 		"Bonjour, my name is",
 		"What's happening! I am",
-		"What's happening! my name is",
+		"What's happening! My name is",
 		"Hola! my name is",
 		"How's it going? My name is",
 		"How's it going? I am",
