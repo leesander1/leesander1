@@ -1,4 +1,4 @@
-# Hey I am Lee Sander
+# Hello there, I am Lee Sander
 Check out my website and get to know more about me and the cool stuff I am working on or connect with me!
 
 [![Website Badge](https://img.shields.io/badge/-leesander-teal?style=flat-square&logo=google-chrome&logoColor=white&link=https://leesander.com)](https://leesander.com)
@@ -6,4 +6,4 @@ Check out my website and get to know more about me and the cool stuff I am worki
 
 - - -
 
-**Last Updated**: *Tue Mar 30 03:22:01 2021*
+**Last Updated**: *Tue Mar 30 06:19:16 2021*
