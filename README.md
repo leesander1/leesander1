@@ -1,4 +1,4 @@
-# What's up! I'm Lee Sander
+# Yo what's up?! Lee Sander
 Check out my website and get to know more about me and the cool stuff I am working on or connect with me!
 
 [![Website Badge](https://img.shields.io/badge/-leesander-teal?style=flat-square&logo=google-chrome&logoColor=white&link=https://leesander.com)](https://leesander.com)
@@ -6,4 +6,4 @@ Check out my website and get to know more about me and the cool stuff I am worki
 
 - - -
 
-**Last Updated**: *Sat Dec 17 08:01:19 2022*
+**Last Updated**: *Sat Dec 17 16:01:29 2022*
