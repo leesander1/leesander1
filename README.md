@@ -39,7 +39,7 @@ Check out my website and get to know more about me and the cool stuff I am worki
       Spin to win with Luna!
     </td>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://luna-coin-pusher.web.app/">
         <img src="https://github.com/user-attachments/assets/87d73d3e-03d3-4923-9c26-5e9f2c15dab8" width="150" alt="Luna Coin Pusher">
       </a>
       <br>
