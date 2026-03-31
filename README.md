@@ -11,7 +11,7 @@ Check out my website and get to know more about me and the cool stuff I am worki
   <tr>
     <td align="center" width="50%">
       <a href="https://luna-socks.web.app/">
-        <img src="https://github.com/user-attachments/assets/9a24020a-ada9-46e6-931c-51bc7e1763be" width="150" alt="Luna Socks">
+        <img src="assets/images/luna-socks.png" width="150" alt="Luna Socks">
       </a>
       <br>
       <strong>Luna Socks</strong>
@@ -20,7 +20,7 @@ Check out my website and get to know more about me and the cool stuff I am worki
     </td>
     <td align="center" width="50%">
       <a href="https://steal-card-game.web.app/">
-        <img src="https://github.com/user-attachments/assets/100cfcb4-5ca3-42db-bbea-c97cc2faf04e" width="150" alt="Steal">
+        <img src="assets/images/steal.png" width="150" alt="Steal">
       </a>
       <br>
       <strong>Steal</strong>
@@ -31,7 +31,7 @@ Check out my website and get to know more about me and the cool stuff I am worki
   <tr>
     <td align="center" width="50%">
       <a href="#">
-        <img src="https://github.com/user-attachments/assets/130ce36e-e241-431a-bede-36b7b1d3e857" width="150" alt="Luna's Slots">
+        <img src="assets/images/luna-slots.png" width="150" alt="Luna's Slots">
       </a>
       <br>
       <strong>Luna's Slots</strong>
@@ -40,7 +40,7 @@ Check out my website and get to know more about me and the cool stuff I am worki
     </td>
     <td align="center" width="50%">
       <a href="https://luna-coin-pusher.web.app/">
-        <img src="https://github.com/user-attachments/assets/87d73d3e-03d3-4923-9c26-5e9f2c15dab8" width="150" alt="Luna Coin Pusher">
+        <img src="assets/images/luna-coin-pusher.png" width="150" alt="Luna Coin Pusher">
       </a>
       <br>
       <strong>Luna Coin Pusher</strong>
@@ -51,7 +51,7 @@ Check out my website and get to know more about me and the cool stuff I am worki
   <tr>
     <td align="center" width="50%">
       <a href="https://luna-vegetable-ninja.web.app/">
-        <img src="https://github.com/user-attachments/assets/520c11d6-99a3-43d3-8c32-2a23c064d5e7" width="150" alt="Luna's Vegetable Ninja">
+        <img src="assets/images/luna-vegetable-ninja.png" width="150" alt="Luna's Vegetable Ninja">
       </a>
       <br>
       <strong>Luna's Vegetable Ninja</strong>
